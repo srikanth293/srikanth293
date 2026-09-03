@@ -15,6 +15,6 @@ I build scalable developer platforms and distributed systems, with a focus on:
 - **AI Agent Experiments:** MCP tools, orchestration workflows, and evaluation
 
 ## Connect
-- LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/srikanth-potana-tech293/)
-- Portfolio: TBD
+- LinkedIn: https://www.linkedin.com/in/srikanth-potana-tech293/
+- Portfolio: https://srikanth293.github.io
 - Email: srikanth.293@gmail.com
