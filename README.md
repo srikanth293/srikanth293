@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Srikanth 👋
 
-<!--
-**srikanth293/srikanth293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Architect | Developer Platforms | AWS Cloud & AI Agent Systems**
 
-Here are some ideas to get you started:
+I build scalable developer platforms and distributed systems, with a focus on:
+- Internal Developer Platforms and Backstage service catalogs
+- API and schema governance
+- AWS, CI/CD, observability, and OpenTelemetry
+- Agentic AI, MCP, and multi-agent orchestration
+- Java, Spring Boot, Go, Python, TypeScript and Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+- **Developer Platform:** Service catalog, golden paths, ownership, and governance
+- **Observability Platform:** OpenTelemetry-based tracing and operational insights
+- **AI Agent Experiments:** MCP tools, orchestration workflows, and evaluation
+
+## Connect
+- LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/srikanth-potana-tech293/)
+- Portfolio: TBD
+- Email: srikanth.293@gmail.com
