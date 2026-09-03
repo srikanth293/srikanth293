@@ -16,5 +16,5 @@ I build scalable developer platforms and distributed systems, with a focus on:
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/srikanth-potana-tech293/
-- Portfolio: https://srikanth293.github.io
+- Portfolio: https://srikanth293.github.io/
 - Email: srikanth.293@gmail.com
